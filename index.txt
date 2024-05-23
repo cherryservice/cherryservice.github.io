@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+hkdkfih - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Chengxuan Chen
+Chengxuan Chen
+Software developer
 
 Show Contacts
 
 Email
-richard@example.com
+admin@cherry.work.gd
 
 Phone
-+1 (213) 352-2795
+None
 
 Birthday
-June 23, 1982
+April 03, 2013
 
 Location
-Sacramento, California, USA
+Munich, Germany
 
 # navbar
 
